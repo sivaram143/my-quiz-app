@@ -1,0 +1,80 @@
+{
+  "questions": [
+      {
+          "id": 1,
+          "text": "React JS developed by?",
+          "choices": [
+            {
+              "id": "a",
+              "text": "Facebook",
+            },
+            {
+              "id": "b",
+              "text": "Google",
+            },
+            {
+              "id": "c",
+              "text": "Microsoft",
+            }
+          ],
+          "correct": "a"
+      },
+      {
+        "id": 2,
+        "text": "What does JSON stand for",
+        "choices": [
+          {
+            "id": "a",
+            "text": "JavaScript Oriented Notation",
+          },
+          {
+            "id": "b",
+            "text": "JavaScript Object Notation",
+          },
+          {
+            "id": "c",
+            "text": "JavaScript Organic Notation",
+          }
+        ],
+        "correct": "b"
+      },
+      {
+            "id": 3,
+            "text": "What does API stand for",
+            "choices": [
+              {
+                "id": "a",
+                "text": "Android product Info",
+              },
+              {
+                "id": "b",
+                "text": "Application Program Idle",
+              },
+              {
+                "id": "c",
+                "text": "Application Program Interface",
+              }
+            ],
+            "correct": "c"
+          },
+          {
+              "id": 4,
+              "text": "the result of 6+7",
+              "choices": [
+                {
+                  "id": "a",
+                  "text": "14",
+                },
+                {
+                  "id": "b",
+                  "text": "15",
+                },
+                {
+                  "id": "c",
+                  "text":"13",
+                }
+              ],
+              "correct": "c"
+            }
+  ]
+}
